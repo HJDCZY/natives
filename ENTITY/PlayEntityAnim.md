@@ -23,7 +23,7 @@ The only time bitset has a value is 0x4000 and the only time delta has a value i
 * **loop**: 
 * **stayInAnim**: 
 * **p6**: 
-* **delta**: 
+* **startposition**: 
 * **bitset**: 
 
 ## Return value
